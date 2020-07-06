@@ -1,0 +1,5 @@
+# при добавлении субрепозиториев необходимо добавить их .git в .gitignore главного репозитория
+
+/clone_hello/.git
+/network_hello/.git
+/hello.git
